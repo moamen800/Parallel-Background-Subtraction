@@ -1,0 +1,12 @@
+.vs/
+*.vcxproj.user
+*.sdf
+*.opensdf
+*.suo
+*.pdb
+*.exe
+*.obj
+*.ilk
+x64/
+Debug/
+Release/
